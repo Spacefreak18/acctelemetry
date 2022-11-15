@@ -1,5 +1,6 @@
-bokeh
+bokeh==2.0.0
 pandas
 matplotlib
 scipy
 pymongo
+jinja2==3.0.1
